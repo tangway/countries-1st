@@ -3,7 +3,7 @@ import axios from "axios";
 // import { debounce } from "lodash";
 
 console.log(import.meta.env.VITE_API_KEY)
-// console.log(VITE_API_KEY)
+console.log(VITE_API_KEY)
 
 function App() {
   const [newSearch, setNewSearch] = useState("");

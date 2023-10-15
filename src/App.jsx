@@ -181,6 +181,7 @@ function App() {
         <div>rain: {weatherData.current.precip_mm}mm</div>
         <div>visibility: {weatherData.current.vis_km}km</div>
         <div>windspeed: {weatherData.current.wind_kph}/kph</div>
+        test
       </>
     );
   };
